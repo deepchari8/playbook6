@@ -1,3 +1,2 @@
 [testenv_1]
-
-172.42.2.36 ansible_user=user1
+172.42.2.236 ansible_user=user1
